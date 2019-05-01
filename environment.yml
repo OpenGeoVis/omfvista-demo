@@ -6,6 +6,8 @@ dependencies:
   - python
   - bokeh
   - panel
+  - pip
   - pip:
     - git+git://github.com/vtkiorg/vtki@master
     - matplotlib
+    - git+git://github.com/OpenGeoVis/omfvtk@master
