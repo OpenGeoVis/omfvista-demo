@@ -6,7 +6,9 @@ omfvista-demo
    :alt: Launch on Binder
 
 
-A place to demo omfvista
+This is deprecated. Please see `OpenGeoVis/omfvista`_
+
+.. _OpenGeoVis/omfvista: https://github.com/OpenGeoVis/omfvista
 
 
 
